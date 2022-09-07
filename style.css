@@ -1,0 +1,14 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+width: 100%;
+top: 0;
+}
+
+#Object_name
+{
+    border-radius: 10px;
+}
